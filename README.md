@@ -25,5 +25,6 @@
    ```bash
    pip install -r requirements.txt
 2. Обучите модель и создайте предсказания:
-   python predict.py
+   `python predict.py`
+
  
